@@ -1,0 +1,7 @@
+-app/NXPNfcNci/NXPNfcNci.apk
+-app/SoterService/SoterService.apk
+-framework/com.nxp.nfc.jar
+bin/iwpriv
+etc/nfcee_access.xml
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
